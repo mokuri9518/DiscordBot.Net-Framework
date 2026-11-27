@@ -25,7 +25,7 @@ namespace DiscordBot_Framework.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("MTUwOTE5NzU1ODEzMDY3MTgyNw.GHNOLD.EkiyxjAT5bkbyS6uml-aHyCkJ6nDEuphYNCD7Y")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string DISCORD_BOT_TOKEN {
             get {
                 return ((string)(this["DISCORD_BOT_TOKEN"]));
@@ -34,7 +34,7 @@ namespace DiscordBot_Framework.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("AIzaSyBVmnYBXuisR---06VvPKZycy3sZg7lh84")]
+        [global::System.Configuration.DefaultSettingValueAttribute("")]
         public string GEMINI_API {
             get {
                 return ((string)(this["GEMINI_API"]));
