@@ -56,7 +56,7 @@ DiscordBot_Framework/
 3. 在 **Privileged Gateway Intents** 區塊中開啟 **Message Content Intent**（若需讀取訊息內容）。
 
 ### 2. 配置設定檔（`Properties/`）
-1. 複製 `Properties/APIs template.settings` 為 `Properties/APIs.settings`（或直接在 Visual Studio 設計工具中開啟 `APIs.settings`）。
+1. !!! 把APIs.settings加入忽略項目(.gitignore) !!!
 2. 填入以下設定值：
    * `DISCORD_BOT_TOKEN`：你的 Discord Bot Token
    * `GEMINI_API`：（選填）外部 API 金鑰
