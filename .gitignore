@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/DiscordBot Framework/Properties/Resources.resx
+/DiscordBot Framework/APIs.settings
+/DiscordBot Framework/App.config
+/DiscordBot Framework/Properties/APIs.settings

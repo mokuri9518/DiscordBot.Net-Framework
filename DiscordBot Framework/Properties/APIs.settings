@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="DiscordBot_Framework" GeneratedClassName="APIs">
+  <Profiles />
+  <Settings>
+    <Setting Name="DISCORD_BOT_TOKEN" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">MTUwOTE5NzU1ODEzMDY3MTgyNw.GHNOLD.EkiyxjAT5bkbyS6uml-aHyCkJ6nDEuphYNCD7Y</Value>
+    </Setting>
+    <Setting Name="GEMINI_API" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">AIzaSyBVmnYBXuisR---06VvPKZycy3sZg7lh84</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
